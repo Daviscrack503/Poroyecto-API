@@ -1,0 +1,149 @@
+{
+	"info": {
+		"_postman_id": "9439c60e-7c34-4ab7-84cf-23a1dd5a82de",
+		"name": "FarmaciaAPi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44260147",
+		"_collection_link": "https://davis-8438249.postman.co/workspace/Davis's-Workspace~1ef6d03f-1806-4923-83f6-920290ea0c74/collection/44260147-9439c60e-7c34-4ab7-84cf-23a1dd5a82de?action=share&source=collection_link&creator=44260147"
+	},
+	"item": [
+		{
+			"name": "https://localhost:7072/api/listar",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7072/api/listar",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7072",
+					"path": [
+						"api",
+						"listar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7072/api/obtener/5",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7072/api/obtener/5",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7072",
+					"path": [
+						"api",
+						"obtener",
+						"5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7072/api/insertar",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 5,\r\n  \"nombreMedicamento\": \"aspirina\",\r\n  \"precioMedicamento\": \"3.10\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7072/api/insertar",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7072",
+					"path": [
+						"api",
+						"insertar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7072/api/actualizar",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 5,\r\n  \"nombreMedicamento\": \"aspirina\",\r\n  \"precioMedicamento\": \"3.10\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7072/api/actualizar",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7072",
+					"path": [
+						"api",
+						"actualizar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7072/api/eliminar/5",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7072/api/eliminar/5",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7072",
+					"path": [
+						"api",
+						"eliminar",
+						"5"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
