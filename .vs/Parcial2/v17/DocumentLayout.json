@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Davis\\Desktop\\Parcial2 - copia (2)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3882714-2FAE-4CE1-B906-272281AD3BAC}|Farmacia Unab\\Farmacia Unab.csproj|c:\\users\\davis\\desktop\\parcial2 - copia (2)\\farmacia unab\\farmacia unab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3882714-2FAE-4CE1-B906-272281AD3BAC}|Farmacia Unab\\Farmacia Unab.csproj|solutionrelative:farmacia unab\\farmacia unab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3882714-2FAE-4CE1-B906-272281AD3BAC}|Farmacia Unab\\Farmacia Unab.csproj|c:\\users\\davis\\desktop\\parcial2 - copia (2)\\farmacia unab\\controllers\\medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3882714-2FAE-4CE1-B906-272281AD3BAC}|Farmacia Unab\\Farmacia Unab.csproj|solutionrelative:farmacia unab\\controllers\\medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{EBE38A2A-8170-4EDD-B8A9-4B96F4E0780B}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\repository\\medicamentosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3882714-2FAE-4CE1-B906-272281AD3BAC}|Farmacia Unab\\Farmacia Unab.csproj|c:\\users\\davis\\desktop\\parcial2 - copia (2)\\farmacia unab\\farmacia unab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B3882714-2FAE-4CE1-B906-272281AD3BAC}|Farmacia Unab\\Farmacia Unab.csproj|solutionrelative:farmacia unab\\farmacia unab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBE38A2A-8170-4EDD-B8A9-4B96F4E0780B}|Parcial2\\Parcial2.csproj|c:\\users\\davis\\desktop\\parcial2 - copia (2)\\parcial2\\parcial2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EBE38A2A-8170-4EDD-B8A9-4B96F4E0780B}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\parcial2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MedicamentosDAO.cs",
               "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\Parcial2 - copia (2)\\Parcial2\\Repository\\MedicamentosDAO.cs",
               "RelativeDocumentMoniker": "Parcial2\\Repository\\MedicamentosDAO.cs",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FarmaciaUnabContext.cs",
               "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\Parcial2 - copia (2)\\Parcial2\\Context\\FarmaciaUnabContext.cs",
               "RelativeDocumentMoniker": "Parcial2\\Context\\FarmaciaUnabContext.cs",
@@ -66,32 +66,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Farmacia Unab.csproj",
               "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\Parcial2 - copia (2)\\Farmacia Unab\\Farmacia Unab.csproj",
               "RelativeDocumentMoniker": "Farmacia Unab\\Farmacia Unab.csproj",
               "ToolTip": "C:\\Users\\Davis\\Desktop\\Parcial2 - copia (2)\\Farmacia Unab\\Farmacia Unab.csproj",
               "RelativeToolTip": "Farmacia Unab\\Farmacia Unab.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T00:46:13.03Z"
+              "WhenOpened": "2025-05-08T00:46:13.03Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Medicamentos.cs",
               "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\Parcial2 - copia (2)\\Farmacia Unab\\Controllers\\Medicamentos.cs",
               "RelativeDocumentMoniker": "Farmacia Unab\\Controllers\\Medicamentos.cs",
               "ToolTip": "C:\\Users\\Davis\\Desktop\\Parcial2 - copia (2)\\Farmacia Unab\\Controllers\\Medicamentos.cs",
               "RelativeToolTip": "Farmacia Unab\\Controllers\\Medicamentos.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T00:51:16.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Medicamento.cs",
               "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\Parcial2 - copia (2)\\Parcial2\\Models\\Medicamento.cs",
               "RelativeDocumentMoniker": "Parcial2\\Models\\Medicamento.cs",
@@ -103,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\Parcial2 - copia (2)\\Farmacia Unab\\Program.cs",
               "RelativeDocumentMoniker": "Farmacia Unab\\Program.cs",
@@ -123,7 +124,8 @@
               "RelativeToolTip": "Parcial2\\Parcial2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T01:17:43.462Z"
+              "WhenOpened": "2025-05-08T01:17:43.462Z",
+              "EditorCaption": ""
             }
           ]
         }
